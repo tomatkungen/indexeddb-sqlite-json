@@ -1,0 +1,1 @@
+# indexeddb-sqlite-json
