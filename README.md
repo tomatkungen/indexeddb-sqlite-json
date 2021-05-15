@@ -1,6 +1,6 @@
 # indexeddb-sqlite-json
 
-# sqlite3 Json1 Extension Wrapper for Indexeddb
+### sqlite3 Json1 Extension Wrapper for Indexeddb
 
 Install minor
 
